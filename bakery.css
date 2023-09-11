@@ -1,0 +1,115 @@
+body{
+    background-color: #ADD8E6;
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo >img{
+    padding-left: 60px;
+}
+.hero{
+    background-color: blueviolet;
+}
+.hero h1{
+    margin-top: 35px;
+}
+.hero p{
+    color: white;
+    font-size: 20px;
+}
+.menu{
+    text-align: center;
+    padding-right:100px;
+    
+}
+.menu1{
+    text-align: center;
+
+    
+}
+.design {
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 30px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+
+}
+.gallery{
+
+    background-color: lightgrey;
+}
+.gallery p{
+    color: black;
+}
+
+.about {
+    margin-top: 20px;
+    background-color: #f5f5f5; /* Set a background color for the section */
+    padding: 20px; /* Add some padding for spacing */
+    border-radius: 20px; /* Increase the border radius for a more rounded look */
+    font-family: 'Arial', sans-serif; /* Change the font to your preferred style */
+     /* Center the text within the section */
+}
+
+.about p {
+    font-size: 25px;
+    margin: 15px 0; /* Adjust top and bottom margin for spacing */
+}
+.about span{
+    color: #f76b0e;
+    font-size: 40px;
+}
+.contact{
+    background-color:  black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.contact h1{
+    font-size: 40px;
+
+}
+.images{
+    margin: 10px;
+width: 200px;
+border-radius: 70px;
+}
+
+.contact-form {
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 50px;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .contact-form label {
+    font-size: 16px;
+    color: #333333;
+  }
+  
+  .contact-form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .but{
+    width: 200px;
+    background-color: #337ab7;
+    margin: 0 auto;
+    margin-top: 15px;
+    align-items: center;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0 0 5px 3px rgba(0,0,0,0.5);;
+  }
